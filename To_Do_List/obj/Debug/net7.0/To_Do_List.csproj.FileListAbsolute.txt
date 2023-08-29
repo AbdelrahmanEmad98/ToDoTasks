@@ -1,0 +1,15 @@
+D:\Courses\GIza Systems\Phase 1\Task\To_Do_List\To_Do_List\obj\Debug\net7.0\To_Do_List.csproj.AssemblyReference.cache
+D:\Courses\GIza Systems\Phase 1\Task\To_Do_List\To_Do_List\obj\Debug\net7.0\To_Do_List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\GIza Systems\Phase 1\Task\To_Do_List\To_Do_List\obj\Debug\net7.0\To_Do_List.AssemblyInfoInputs.cache
+D:\Courses\GIza Systems\Phase 1\Task\To_Do_List\To_Do_List\obj\Debug\net7.0\To_Do_List.AssemblyInfo.cs
+D:\Courses\GIza Systems\Phase 1\Task\To_Do_List\To_Do_List\obj\Debug\net7.0\To_Do_List.csproj.CoreCompileInputs.cache
+D:\Courses\GIza Systems\Phase 1\Task\To_Do_List\To_Do_List\bin\Debug\net7.0\To_Do_List.exe
+D:\Courses\GIza Systems\Phase 1\Task\To_Do_List\To_Do_List\bin\Debug\net7.0\To_Do_List.deps.json
+D:\Courses\GIza Systems\Phase 1\Task\To_Do_List\To_Do_List\bin\Debug\net7.0\To_Do_List.runtimeconfig.json
+D:\Courses\GIza Systems\Phase 1\Task\To_Do_List\To_Do_List\bin\Debug\net7.0\To_Do_List.dll
+D:\Courses\GIza Systems\Phase 1\Task\To_Do_List\To_Do_List\bin\Debug\net7.0\To_Do_List.pdb
+D:\Courses\GIza Systems\Phase 1\Task\To_Do_List\To_Do_List\obj\Debug\net7.0\To_Do_List.dll
+D:\Courses\GIza Systems\Phase 1\Task\To_Do_List\To_Do_List\obj\Debug\net7.0\refint\To_Do_List.dll
+D:\Courses\GIza Systems\Phase 1\Task\To_Do_List\To_Do_List\obj\Debug\net7.0\To_Do_List.pdb
+D:\Courses\GIza Systems\Phase 1\Task\To_Do_List\To_Do_List\obj\Debug\net7.0\To_Do_List.genruntimeconfig.cache
+D:\Courses\GIza Systems\Phase 1\Task\To_Do_List\To_Do_List\obj\Debug\net7.0\ref\To_Do_List.dll
